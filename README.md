@@ -1,18 +1,20 @@
-# PWA Training Labs
+# DESENVOLVIMENTO DE PROGRESSIVE WEB APPS
 
-This repo contains open-source training labs for building Progressive Web Apps.
+Esse material é destinado ao desenvolvimento completo de soluções web/mobile. 
+Para isso, utilizei PWA.
+O repositório conta com uma série de pastas e cada uma tem um assunto desenvolvido.
 
-## Getting started
+## Como Iniciar?
 
-Instructions, as well as lecture videos and related content, are available on
+Pode começar lendo o código dos repositórios hehe
+Caso tenha uma necessidade específica de código, fique à vontade para utilizar as pastas.
+Caso queira fazer o treinamento original acesse o link abaixo.
 [developers.google.com](https://developers.google.com/web/ilt/pwa/). 
 
-## Contributing
+## Contribuindo
 
-If you find a bug or think something could be better, please file an issue! 
-* If you think a code change should be made, feel free to file a PR.
-* If you think the instructions should be updated, please file a bug instead of a PR. The instructions for this project are generated from internal documents, so we can't use PRs to update them.
+... Ainda não pensei nisso kkk
 
 ## Note
 
-This is not an official Google product.
+Qualquer dúvida é só mandar mensagem.
